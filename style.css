@@ -9,7 +9,7 @@
 
 body {
     overflow: hidden;
-    background-color: #5c5c5c;
+    background-color: #4A5A3F;
 }
 
 .header {
@@ -220,4 +220,5 @@ body {
     transform: scale(1);
     opacity: 1;
  } 
+
 }
